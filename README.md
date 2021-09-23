@@ -36,7 +36,6 @@ Terakhir, jika username dan password tadi dimasukkan, maka website `basic.ichima
 #### 4. Temukan paket mysql yang mengandung perintah query select!
 
 Mengisi display filter dengan `mysql contains select or mysql contains SELECT` karena ada select yang menggunakan kapital dan tidak.
-
 ![Screenshot (464)](https://user-images.githubusercontent.com/76694068/134187633-05e65f2d-4981-4f8d-bc3a-b1f0c5e1fd8c.png)
 
 
@@ -45,7 +44,6 @@ Mengisi display filter dengan `mysql contains select or mysql contains SELECT` k
 #### 6. Cari username dan password ketika melakukan login ke FTP Server!
 
 Mengisi display filter dengan `ftp.request.command == "USER" || ftp.request.command == "PASS"`
-
 ![Screenshot (467)](https://user-images.githubusercontent.com/76694068/134188079-24747c98-55b8-47b6-8286-2b45bbbe8cc5.png)
 
 
