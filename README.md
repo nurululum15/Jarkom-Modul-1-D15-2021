@@ -92,3 +92,15 @@ Maka ketika dijalankan, saat kita tidak membuka website `kemeneag.go.id` maka ti
 
 
 #### 15. Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
+
+
+
+
+
+
+
+## Masalah saat mengerjakan
+
+Ada pada nomer :
+
+7. Awal waktu file akhir disimpan dalam bentuk `.pdf`, ketika pdf-nya dibuka, gambar tidak keluar. Setelah itu dicoba menyimpan file dalam bentuk `.zip` baru kemudian di ekstrak. dan setelah itu pdf terbuka tanpa ada masalah.
