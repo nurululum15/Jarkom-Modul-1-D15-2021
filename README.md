@@ -164,6 +164,8 @@ Hasilnya :
 
 ## Masalah saat mengerjakan
 
-Ada pada nomer :
+Ada :
 
-7. Awal waktu file akhir disimpan dalam bentuk `.pdf`, ketika pdf-nya dibuka, gambar tidak keluar. Setelah itu dicoba menyimpan file dalam bentuk `.zip` baru kemudian di ekstrak. dan setelah itu pdf terbuka tanpa ada masalah.
+1. Pada nomor 7, Awal waktu file akhir disimpan dalam bentuk `.pdf`, ketika pdf-nya dibuka, gambar tidak keluar. Setelah itu dicoba menyimpan file dalam bentuk `.zip` baru kemudian di ekstrak. dan setelah itu pdf terbuka tanpa ada masalah.
+
+2. Pada saat export file, terutama dalam bentuk `.zip` seringkali terjadi  file. Ternyata, export harus dilakukan secara perlahan hingga file benar-benar tampil secara sempurna dan bisa di export menjadi `.zip` yang openable
