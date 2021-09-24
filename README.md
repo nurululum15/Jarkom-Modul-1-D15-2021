@@ -2,7 +2,7 @@
 
 ### Anggota  Kelompok D15 :
 
-### Ricahd Asmarakandi (05111940000017)
+### Richard Asmarakandi (05111940000017)
 
 ### Nurul Izzatil Ulum (05111940000058)
 
